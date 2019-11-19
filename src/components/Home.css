@@ -1,0 +1,58 @@
+#common {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    margin: 20px !important;
+    font-size: 20px;
+}
+
+.size {
+    font-size: 30px;
+    position: relative;
+    left: 5px;
+    top: 40px;
+}
+.box2,.box3,.box4,.box5 {
+    color: blue;
+}
+th {
+    font-size: 9px;
+    margin: 10px;
+    color: #dadada;
+}
+
+tr {
+    padding: 25px;
+    margin-bottom: 10px;
+}
+tbody tr{
+    border: 1px solid #dadada;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+/* #firstTbody tr {
+    margin-top: 70px;
+} */
+#myFirstTable,#mySecondTable {
+    border: 1px solid #ccc;
+    margin-top: 50px;
+    padding: 5px;
+}
+
+#myFirstTable {
+    margin-left: -40px;
+}
+
+#mySecondTable {
+    margin-left: 30px;
+    border-right-color: transparent;
+}
+#tableRow {
+    height:20px;
+}
+
+.del {
+    color: rgb(9, 207, 9);
+}
